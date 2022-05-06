@@ -17,6 +17,13 @@
 	<li>linux 1</li>
 	<li>linux 2</li>
     </ul>
-
+    <ul>
+	    <li>clouds</li>
+	    <li>kuber</li>
+	    <li>docker</li>
+	    <li>Beanstalk</li>
+	    <li>Ecs</li>
+	    <li>google cloud</li>
+    </ul>
 </body>
 </html>
